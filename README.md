@@ -27,5 +27,3 @@ Install via nginx
 ```jsx
 sudo apt-get install nginx
 ```
-
-
