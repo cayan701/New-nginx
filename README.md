@@ -69,3 +69,8 @@ http {
     }
 }
 ```
+Then, restart the server again 
+
+```jsx
+sudo nginx -s reload
+```
